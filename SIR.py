@@ -1,6 +1,6 @@
 
 import numpy as np
-from ODESolver import ForwardEuler
+from ODEsolver import ForwardEuler
 from matplotlib import pyplot as plt
 
 class SIR:
